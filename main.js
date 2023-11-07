@@ -8,7 +8,7 @@ let cartItems = [
     name: "Oraimo 10000mah Power-Bank",
     price: 9000,
     qty: 1,
-    img: "Images/oraimo -10000mah.jpg",
+    img: "Images/oraimo10000mah.jpg",
     like: false,
   },
 
@@ -17,7 +17,7 @@ let cartItems = [
     name: "Oraimo 20000mah Power-Bank",
     price: 17000,
     qty: 1,
-    img: "Images/oraimo -20000mah.jpg",
+    img: "Images/oraimo20000mah.jpg",
     like: false,
   },
   {
@@ -25,7 +25,7 @@ let cartItems = [
     name: "Oraimo 30000mah Power-Bank",
     price: 25000,
     qty: 1,
-    img: "Images/oraimo -30000mah.jpg",
+    img: "Images/oraimo30000mah.jpg",
     like: false,
   },
   {
@@ -33,7 +33,7 @@ let cartItems = [
     name: "Oraimo 40000mah Power-Bank",
     price: 30000,
     qty: 1,
-    img: "Images/oraimo -40000mah.jpg",
+    img: "Images/oraimo40000mah.jpg",
     like: false,
   },
 ];
